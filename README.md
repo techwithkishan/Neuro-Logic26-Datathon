@@ -36,6 +36,8 @@
 | Not Informative | 0.87 | 0.86 | 0.87 |
 | **Macro F1** | | | **0.8955** |
 
+**BERTweet was specifically chosen due to its pretraining on large-scale Twitter data, making it highly effective for domain-specific tasks like disaster tweet classification.**
+
 ---
 
 ## 📰 Challenge 2 — Fake News Detection
